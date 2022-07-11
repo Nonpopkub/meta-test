@@ -1,0 +1,37 @@
+.body,html{
+	padding:0;
+	margin:0;
+}
+
+
+
+
+.jumbotron{
+	font-family:supermarket;
+	font-size:80px;
+	text-align:center;
+	background:url(%E0%B8%B6%E0%B8%B6%E0%B8%B6%E0%B8%B6%E0%B8%B6%E0%B8%B6.jpg);
+	color:#fff;
+	background-size:cover;
+	 padding: 150px 0;
+	 position: relative;}
+.button{
+	 display:inline-block;
+	 border:2px solid#000;
+	 padding: 10px 20px;
+	 color:#fff;
+	 text-decoration:none;
+	 transition:0.5s;
+	 cursor:pointer;
+	 background:#000;
+	 font-size:30px;
+	  }
+ .button:hover{
+	 border:5px solid#fff;
+	 background:#fff;
+	 color:#000;
+	 display:inline-block;
+	 border-radius:50px;
+	 }
+
+

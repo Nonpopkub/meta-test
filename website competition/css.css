@@ -1,0 +1,30 @@
+.body,html{
+	padding:0;
+	margin:0;
+}
+.jubbotron{
+	max-width: 960px;
+	margin:0 auto;
+	background:#f9f9f9;
+	font-size: 24px;
+	padding: 25px;}
+.jubbotron p{
+	font-family:supermarket;
+	font-size:40;
+	text-align:left;
+	}
+.parallax{
+	background:url(%E0%B8%AB%E0%B8%A1%E0%B8%AD%E0%B8%81.jpg)no-repeat center;;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+	
+	}
+	.container h{
+font-family:supermarket;
+	font-size:30px;
+	text-decoration:underline;
+	}
+	.container h1{
+font-family:supermarket;
+	font-size:26px;
